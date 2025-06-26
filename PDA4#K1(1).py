@@ -1,9 +1,3 @@
-"""
-PDA 4 - LARIK (ARRAY)
-Nama : Elsa Aiziyah
-NIM  : 21305144025
-Kelas: Matematika E
-"""
 print('='*50)
 print('PROGRAM ENKRIPSI'.center(50))
 print('='*50)
